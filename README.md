@@ -19,7 +19,11 @@ A página promove os serviços de encanamento de Mario e Luigi, destacando suas 
 - `scripts.js` - Arquivo de scripts JavaScript.
 - `assets/` - Pasta contendo as imagens e vídeos utilizados na página.
 - `icon/` - Pasta contendo os ícones do site.
+  
 🖼️ Screenshot
+![Descrição da imagem](img/foto-projeto-mario.png)
+
+
 
 🎨 Estilos CSS
 Os estilos são definidos no arquivo style.css e incluem classes para estilizar o cabeçalho, o conteúdo principal, o vídeo de fundo e o formulário de contato.

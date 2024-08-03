@@ -21,7 +21,7 @@ A página promove os serviços de encanamento de Mario e Luigi, destacando suas 
 - `icon/` - Pasta contendo os ícones do site.
   
 🖼️ Screenshot
-![Descrição da imagem](img/foto-projeto-mario.png)
+![Descrição da imagem](assets/foto-projeto-mario.png)
 
 
 
